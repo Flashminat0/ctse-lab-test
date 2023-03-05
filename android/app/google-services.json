@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "713200207963",
+    "firebase_url": "https://ctse-lab-exam-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ctse-lab-exam",
+    "storage_bucket": "ctse-lab-exam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713200207963:android:3dff25bc04ef708382177e",
+        "android_client_info": {
+          "package_name": "com.flashminat0.firebaseflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713200207963-u2sk9rv5n2rjkg6gtv227m5b6kk7fk89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDwXQ7vrvGlnGmQjGDXkIpCjeHFQc6bO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713200207963-u2sk9rv5n2rjkg6gtv227m5b6kk7fk89.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "713200207963-8ebcsqugjnioq4c7ap0ecgomc04n4210.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flashminat0.firebaseflutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
